@@ -20,9 +20,9 @@ Conclusion: Cp and Cpk values for both 'First Call Resolution' and '5 Day Resolu
 
 ---
 Solved Exercise 1: <br>
-[Process capability analysis-Excel](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Exercise%201%20-%20Improving%20bank%20call%20center%20operations.pdf)
+[Process capability analysis-Excel](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Excercises/Exercise%201%20-%20Improving%20bank%20call%20center%20operations.pdf)
 
-[Process capability analysis-python](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Process_capability_analysis_using_python.ipynb)
+[Process capability analysis-python](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Excercises/Process_capability_analysis_using_python.ipynb)
 
 **Exercise 2: Measurement System Analysis (MSA) and Root Cause Analysis**
 
@@ -32,18 +32,18 @@ The data provided is continuous data, representing the ratings given by QA analy
 **MSA Method:**
 The most appropriate method for MSA is the ANOVA method. Conduct a one-way ANOVA to verify the repeatability and reproducibility of QA results.
 
-[Solved Exercise 2A](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Exercise%202A%20-%20Improving%20bank%20call%20center%20operations.pdf)
+[Solved Exercise 2A](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Excercises/Exercise%202A%20-%20Improving%20bank%20call%20center%20operations.pdf)
 
 **B. Determine the potential causes for consistent failure to meet First Call Resolution targets.**
 - Use tools like Fishbone or Ishikawa diagram for root cause analysis.
 - Identify potential causes such as manpower issues, lack of standard operating procedures, obsolete technologies, and training deficiencies.
 
-[Solved Exercise 2B](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Exercise%202B%20-Improving%20bank%20call%20center%20operations.pdf)
+[Solved Exercise 2B](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Excercises/Exercise%202B%20-Improving%20bank%20call%20center%20operations.pdf)
 
 **C. Brainstorm and propose solutions for elimination of causes for failure.**
 - Propose solutions such as improving recruitment processes, creating standardized procedures and knowledge bases, implementing automation and updated technologies, budgeting for training, and maintaining knowledge bases.
 
-[Solved Exercise 2C](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Exercise%202C%20-Improving%20bank%20call%20center%20operations.pdf)
+[Solved Exercise 2C](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Excercises/Exercise%202C%20-Improving%20bank%20call%20center%20operations.pdf)
 
 ---
 
@@ -61,7 +61,7 @@ Identify potential failure modes and their effects for the solutions proposed in
 **Summary and Conclusion:**
 Use FMEA to systematically analyze potential failure modes and their effects for the proposed solutions. Prioritize actions based on the risk associated with each failure mode, aiming to address the most critical issues first.
 
-[Solved Exercise 3](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Exercise%203%20-%20Improving%20bank%20call%20center%20operations.pdf)
+[Solved Exercise 3](https://github.com/raviteja-padala1989/Six_Sigma/blob/main/Bank_Call_Center_Project/Excercises/Exercise%203%20-%20Improving%20bank%20call%20center%20operations.pdf)
 
 ---
 
